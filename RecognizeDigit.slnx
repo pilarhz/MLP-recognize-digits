@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RecognizeDigit/RecognizeDigit.vcxproj" Id="fa0cd498-d89d-4a31-8ba8-4164c6dd008b" />
+</Solution>
