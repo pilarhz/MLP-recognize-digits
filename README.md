@@ -5,5 +5,3 @@ Application uses multilayer perceptron(MLP) to recognize digits between 0 and 9.
 This project uses the **[MNIST database](http://yann.lecun.com/exdb/mnist/)** of handwritten digits, created by Yann LeCun, Corinna Cortes and Christopher J.C. Burges.
 
 The dataset is **not included** in this repository.
-## Why?
-It's a project for my university and also to learn something new:)
